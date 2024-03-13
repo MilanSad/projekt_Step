@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31a2299c-f4ef-4c8e-ae50-b15f61b4591b" name="Changes" comment="start2">
-      <change afterPath="$PROJECT_DIR$/my_project/company_core/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_project/company_core/templates/news.html" afterDir="false" />
+    <list default="true" id="31a2299c-f4ef-4c8e-ae50-b15f61b4591b" name="Changes" comment="news">
+      <change afterPath="$PROJECT_DIR$/my_project/company_core/templates/about_company.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/company_core/templates/management.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/company_core/templates/news2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_project/company_core/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/company_core/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_project/company_core/templates/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/company_core/templates/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_project/company_core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/company_core/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_project/company_core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/company_core/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_project/my_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/my_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +30,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MilanSad"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MilanSad&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -43,10 +44,10 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2de0xaQVsg7igG1iidjQev2KEwk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,16 +57,16 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -138,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710355525415</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="news">
+      <option name="closed" value="true" />
+      <created>1710358001973</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710358001973</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,7 +165,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start" />
     <MESSAGE value="start2" />
-    <option name="LAST_COMMIT_MESSAGE" value="start2" />
+    <MESSAGE value="news" />
+    <option name="LAST_COMMIT_MESSAGE" value="news" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
