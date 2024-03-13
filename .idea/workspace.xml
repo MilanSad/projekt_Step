@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31a2299c-f4ef-4c8e-ae50-b15f61b4591b" name="Changes" comment="start" />
+    <list default="true" id="31a2299c-f4ef-4c8e-ae50-b15f61b4591b" name="Changes" comment="start2">
+      <change afterPath="$PROJECT_DIR$/my_project/company_core/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_project/company_core/templates/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_project/company_core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/company_core/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_project/company_core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/company_core/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_project/my_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/my_project/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +22,26 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MilanSad"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5a6904f4-d2c2-4b0c-81ad-e50cdd0ad363" />
+        <option name="url" value="https://github.com/MilanSad/projekt_Step.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -36,6 +59,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -105,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710354859992</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="start2">
+      <option name="closed" value="true" />
+      <created>1710355525415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710355525415</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,7 +155,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="start2" />
+    <option name="LAST_COMMIT_MESSAGE" value="start2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
